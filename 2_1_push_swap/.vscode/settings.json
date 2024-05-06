@@ -1,0 +1,17 @@
+{
+	"files.associations": {
+		"push_swap.h": "c",
+		"get_next_line.h": "c",
+		"limits": "c",
+		"ratio": "c",
+		"chrono": "c",
+		"algorithm": "c",
+		"__bit_reference": "c",
+		"bitset": "c",
+		"unordered_map": "c",
+		"deque": "c",
+		"ios": "c",
+		"map": "c",
+		"set": "c"
+	}
+}

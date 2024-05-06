@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"istream": "c",
+		"__bit_reference": "c",
+		"algorithm": "c",
+		"bitset": "c",
+		"chrono": "c",
+		"unordered_map": "c",
+		"get_next_line.h": "c",
+		"sstream": "c",
+		"ft_convert_base2nbr.h": "c"
+	}
+}
