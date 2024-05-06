@@ -2,11 +2,14 @@
 
 <img align="right" margin-left:7 src="_asset/holy%20graph.png" width="400" height="400" title="holy graph">
 
-본 레포지토리는 16개월간(2023.02 ~ 2024.05) \
-42 서울(Ecole 42의 서울 캠퍼스)의 교육생으로서 \
-수행한 42cursus(본과정 커리큘럼)의 \
+본 레포지토리는 16개월간\
+(2023.02 ~ 2024.05) \
+42 서울(Ecole 42의 서울 캠퍼스)의 \
+교육생으로서 수행한 \
+42cursus(본과정 커리큘럼)의 \
 모든 프로젝트들을 정리한 것입니다. \
-각 프로젝트를 통해 학부 수준의 컴퓨터과학에 대해 \
+각 프로젝트를 통해 \
+학부 수준의 컴퓨터과학에 대해 \
 학습하였습니다.
 
 | Circle | Project |   Topic   | Related | Stack |
